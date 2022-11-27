@@ -1,5 +1,5 @@
 # Catalogue of deep learning models 
-Note: All models are archived on our AWS.
+Note: All models are archived on our AWS SE bucket ml-catalogue.
 ## The original model [published](https://pubs.acs.org/doi/10.1021/acsmeasuresciau.2c00045)
 1. 5 homogeneous mechanisms: E, EC, CE, ECE, DISP
 2. ~5k training data for each mechanism
